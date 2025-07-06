@@ -1,1 +1,5 @@
-/* Add CSS Styling */
+div .text {
+  color: red;
+  text-align: center;
+  background: yellow;
+}
